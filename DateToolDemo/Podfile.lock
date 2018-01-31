@@ -1,0 +1,14 @@
+PODS:
+  - DatePicker (1.2.2):
+    - DatePicker/DatePicker (= 1.2.2)
+  - DatePicker/DatePicker (1.2.2)
+
+DEPENDENCIES:
+  - DatePicker (= 1.2.2)
+
+SPEC CHECKSUMS:
+  DatePicker: b3dbe8c958308041a13eae1de9e690b8b4611241
+
+PODFILE CHECKSUM: a34d1a7ebeec50979e94618b1e54132f8f8da06c
+
+COCOAPODS: 1.3.1
